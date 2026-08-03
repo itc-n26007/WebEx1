@@ -1,0 +1,28 @@
+
+@charset "UTF-8";
+
+body {
+    background-color: #dddddd;
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    border-bottom: 2px solid #555555;
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
